@@ -1,0 +1,6 @@
+﻿en,productCode,isStat,quantity,unit,parsableDirection,overallDirectionDescription,dispenseType
+E6902240354,med0000004,FALSE,10,tube,1 g apply bid,ทา 1 กรัม วันละ 2 ครั้ง,home-med
+E6902240354,med0000001,FALSE,90,capsule,1 cap po tid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 3 ครั้ง หลังอาหาร,home-med
+E6902240355,med0000002,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240356,med0000001,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240357,med0000001,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med

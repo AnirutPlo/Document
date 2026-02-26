@@ -1,0 +1,6 @@
+hn,clinicId,source,encounterType,preferReceivePostalPrescription,insurancePlanId_1,coverage_1.insurancePlanId,coverage_1.priority,insurancePlanId_2,coverage_1.expiredAt,coverage_2.insurancePlanId,coverage_2.priority
+6903046,7,kiosk,WALK_IN,true,1,1,10,,,,
+6903049,10,kiosk,WALK_IN,true,3,3,10,,,,
+6903050,2,kiosk,WALK_IN,true,20,20,10,,,,
+6903051,11,kiosk,WALK_IN,true,3,3,10,,,,
+6903052,10,kiosk,WALK_IN,true,3,3,10,,,,
