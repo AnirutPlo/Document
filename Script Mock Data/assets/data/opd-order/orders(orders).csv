@@ -1,0 +1,55 @@
+﻿en,productCode,isStat,quantity,unit,parsableDirection,overallDirectionDescription,dispenseType
+E6902240326,med0000004,FALSE,1,tube,1 g apply bid,ทา 1 กรัม วันละ 2 ครั้ง,home-med
+E6902240326,med0000008,FALSE,90,capsule,1 cap po tid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 3 ครั้ง หลังอาหาร,home-med
+E6902240326,med0000029,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240326,med0000024,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240326,med0000016,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240329,med0000027,FALSE,1,Vial,1 vial iv od,ฉีดเข้าหลอดเลือดดำ 1 ไวอัล วันละ 1 ครั้ง,in-hospital
+E6902240329,med0000028,FALSE,1,Vial,1 vial iv od,ฉีดเข้าหลอดเลือดดำ 1 ไวอัล วันละ 1 ครั้ง,in-hospital
+E6902240330,med0000011,TRUE,1,Ampoule,1 amp iv stat,ฉีดเข้าหลอดเลือดดำ 1 แอมป์ ทันที,in-hospital
+E6902240328,med0000034,FALSE,6,vial,10 unit sc bid,ฉีดใต้ผิวหนัง 10 ยูนิต วันละ 2 ครั้ง,home-med
+E6902240328,med0000005,FALSE,15,bottle,1 g apply bid,ทา 1 กรัม วันละ 2 ครั้ง,home-med
+E6902240328,med0000027,FALSE,30,Vial,1 vial iv od,ฉีดเข้าหลอดเลือดดำ 1 ไวอัล วันละ 1 ครั้ง,home-med
+E6902240327,med0000029,FALSE,60,capsule,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240327,med0000001,FALSE,30,bottle,10 mL po bid pc,รับประทาน ครั้งละ 10 มล. วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240327,med0000002,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240327,med0000007,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240327,med0000012,FALSE,60,tablet,1 tab po bid,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง,home-med
+E6902240327,med0000008,FALSE,21,capsule,1 cap po tid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 3 ครั้ง หลังอาหาร,home-med
+E6902240327,med0000029,FALSE,20,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240327,med0000016,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240327,med0000024,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240327,med0000026,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240332,med0000007,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240332,med0000019,FALSE,60,capsule,1 cap po bid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240332,med0000023,FALSE,90,capsule,1 cap po tid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 3 ครั้ง หลังอาหาร,home-med
+E6902240331,med0000016,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240331,med0000019,FALSE,60,capsule,1 cap po bid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240331,med0000029,FALSE,60,capsule,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240333,med0000004,FALSE,1,tube,1 g apply bid,ทา 1 กรัม วันละ 2 ครั้ง,home-med
+E6902240333,med0000008,FALSE,90,capsule,1 cap po tid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 3 ครั้ง หลังอาหาร,home-med
+E6902240333,med0000029,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240333,med0000024,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240333,med0000016,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240334,med0000027,FALSE,1,Vial,1 vial iv od,ฉีดเข้าหลอดเลือดดำ 1 ไวอัล วันละ 1 ครั้ง,in-hospital
+E6902240334,med0000028,FALSE,1,Vial,1 vial iv od,ฉีดเข้าหลอดเลือดดำ 1 ไวอัล วันละ 1 ครั้ง,in-hospital
+E6902240336,med0000011,TRUE,1,Ampoule,1 amp iv stat,ฉีดเข้าหลอดเลือดดำ 1 แอมป์ ทันที,in-hospital
+E6902240337,med0000034,FALSE,6,vial,10 unit sc bid,ฉีดใต้ผิวหนัง 10 ยูนิต วันละ 2 ครั้ง,home-med
+E6902240337,med0000005,FALSE,15,bottle,1 g apply bid,ทา 1 กรัม วันละ 2 ครั้ง,home-med
+E6902240337,med0000027,FALSE,30,Vial,1 vial iv od,ฉีดเข้าหลอดเลือดดำ 1 ไวอัล วันละ 1 ครั้ง,home-med
+E6902240335,med0000029,FALSE,60,capsule,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240335,med0000001,FALSE,30,bottle,10 mL po bid pc,รับประทาน ครั้งละ 10 มล. วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240335,med0000002,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240335,med0000007,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240335,med0000012,FALSE,60,tablet,1 tab po bid,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง,home-med
+E6902240335,med0000008,FALSE,21,capsule,1 cap po tid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 3 ครั้ง หลังอาหาร,home-med
+E6902240335,med0000029,FALSE,20,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240335,med0000016,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240335,med0000024,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240335,med0000026,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240339,med0000007,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240339,med0000019,FALSE,60,capsule,1 cap po bid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240339,med0000023,FALSE,90,capsule,1 cap po tid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 3 ครั้ง หลังอาหาร,home-med
+E6902240338,med0000016,FALSE,60,tablet,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240338,med0000019,FALSE,60,capsule,1 cap po bid pc,รับประทาน ครั้งละ 1 แคปซูล วันละ 2 ครั้ง หลังอาหาร,home-med
+E6902240338,med0000029,FALSE,60,capsule,1 tab po bid pc,รับประทาน ครั้งละ 1 เม็ด วันละ 2 ครั้ง หลังอาหาร,home-med
